@@ -1,0 +1,8 @@
+BiCycle
+Bike
+Bus
+Car
+CNG
+Leguna
+Rickshaw
+Van
