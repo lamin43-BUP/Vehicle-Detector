@@ -49,15 +49,12 @@ git config --global user.email <github_email>
 
 * Clone the repository:
 ```bash
-https://github.com/lamin43-BUP/dhaka-heritage-chatbot.git
+https://github.com/lamin43-BUP/Vehicle-Detector.git
 ```
 
-### 2. Open the Android project in Android Studio
-
-### 3. Ensure model.tflite and labels.txt are in the assets folder
-
-### 4. Connect an Android device or use an emulator with camera
-
-### 5. Run the app
+### 2. Open the project in Android Studio
+### 3. Place model.tflite and labels.txt in /app/src/main/assets/
+### 4. Connect an Android device or use an emulator with camera support
+### 5. Run the app from Android Studio
 
 
